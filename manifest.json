@@ -1,32 +1,27 @@
 {
-  "name": "YOURAPPNAME",
+  "name": "tawk-to",
   "vendor": "vtex",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "Tawk.to",
+  "description": "Message your customers, they'll love you for it.",
   "billingOptions": {
-    "termsURL": "",
+    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
       "url": "https://support.vtex.com/hc/requests"
     },
     "free": true
   },
   "builders": {
-    "react": "3.x",
-    "store": "0.x",
     "pixel": "0.x",
     "docs": "0.x"
   },
-  "dependencies": {
-    "vtex.pixel-interfaces": "1.x"
-  },
+  "dependencies": {},
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "Tawk.to",
     "type": "object",
     "properties": {
-      "gtmId": {
-        "title": "SAMPLE FIELD",
-        "description": "Enter the ID (GTM-XXXX) from your Google Tag Manager",
+      "id": {
+        "title": "Property ID",
         "type": "string"
       }
     }
