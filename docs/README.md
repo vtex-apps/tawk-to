@@ -8,7 +8,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Message your customers, they'll love you for it.
+Tawk.to first party integration app. The [solution](https://www.tawk.to/) allows you to monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
 ![image](https://user-images.githubusercontent.com/284515/86490223-043d4380-bd3d-11ea-98a5-80e6d84b44e8.png)
 
@@ -20,20 +20,20 @@ It is possible to install in your store either by using App Store or the VTEX IO
 
 1. Access the **Apps** section in your account's admin page and look for the Tawk.to box;
 2. Then, click on the **Install** button;
-3. You'll see a warning message about needing to enter the necessary configurations. Scroll down and type in your **Property ID**.
+3. You'll see a warning message about needing to enter the necessary configurations. Scroll down and type in your tawk.to's **Property ID**.
 4. Click on **Save**.
 
 ### Using VTEX IO Toolbelt
 
-1. [Install](https://vtex.io/docs/recipes/development/installing-an-app/) the `vtex.tawk-to@0.x` app. You can confirm that the app has now been installed by running `vtex ls` again.
-2. Access the **Apps** section in your account's admin page and look for the NAME OF THE APP box. Once you find it, click on the box.
-3. Fill with your **Property ID**.
+1. In your terminal, [install](https://vtex.io/docs/recipes/development/installing-an-app/) the `vtex.tawk-to@0.x` app. You can confirm that the app has now been installed by running `vtex ls` again.
+2. Access the **Apps** section in your account's admin page and look for the Tawk.to box. Once you find it, click on it.
+3. Fill with your tawk.to's **Property ID**.
 4. Click on **Save**.
 
 <!-- DOCS-IGNORE:start -->
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
