@@ -1,0 +1,22 @@
+## Sobre
+
+O tawk.to foi desenvolvido para aumentar a eficácia no gerenciamento da experiência de envolvimento do cliente on-line, permitindo que vários sites e agentes em uma única interface conversem com os visitantes do seu site.
+Compatível com todos os navegadores modernos, o tawk.to é um software de bate-papo ao vivo gratuito criado a partir da crescente necessidade de as empresas responderem em tempo real, com pessoas reais.
+
+Não existe uma versão 'premium', apenas uma versão repleta de recursos para todos.
+
+## Funcionalidades
+
+- Monitoramento em tempo real;
+- Gatilhos automatizados;
+- Widgets personalizáveis;
+- 27 idiomas;
+- Notificações por e-mail.
+
+[Ver mais](https://www.tawk.to/features/#)
+
+## Como configurar
+
+1. Instale o aplicativo da VTEX App Store;
+2. Depois de criar uma conta tawk.to, preencha o Property ID nas configurações do aplicativo;
+3. Salve suas alterações.
