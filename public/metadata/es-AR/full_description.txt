@@ -1,0 +1,23 @@
+## Sobre
+
+Tawk.to está diseñado para aumentar la efectividad en la gestión de la experiencia de participación del cliente en línea, permitiendo que múltiples sitios y agentes en una sola interfaz chateen con los visitantes de su sitio.
+Compatible con todos los navegadores modernos, tawk.to es un software gratuito de chat en vivo creado a partir de la creciente necesidad de que las empresas respondan en tiempo real, con personas reales.
+
+No existe una versión 'premium', solo una versión rica en funciones para todos.
+
+## Funcionalidades
+
+- Monitoreo en tiempo real;
+- disparadores automatizados;
+- Widgets personalizables;
+- 27 idiomas;
+- Notificaciónes de e-mail.
+
+[Ver más](https://www.tawk.to/features/#)
+
+## Cómo configurar
+
+1. Instale la aplicación VTEX App Store;
+2. Después de crear una cuenta tawk.to, complete la ID de propiedad en la configuración de la aplicación;
+3. Guarde sus cambios.
+
