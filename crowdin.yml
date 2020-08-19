@@ -1,0 +1,10 @@
+{
+    "source": "tawk-to/public/metadata/messages/pt-BR.json",
+    "translation": "tawk-to/public/metadata/messages/%two_letters_code_language-two_letters_code_country%.json",
+    "type": "json",
+},
+{
+    "source": "tawk-to/public/metadata/licenses/pt-BR.md",
+    "translation": "tawk-to/public/metadata/licenses/%two_letters_code_language-two_letters_code_country%.md",
+    "type": "md",
+},
