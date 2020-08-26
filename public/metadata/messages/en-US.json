@@ -1,0 +1,16 @@
+{
+  "name": "Tawk.to",
+  "headline": "Tawk.to is a free messaging app that businesses use to build better relationships with their customers.",
+  "overview": "Tawk.to is designed to increase the effectiveness in managing the online customer engagement experience, enabling multiple websites and agents in a single dashboard interface to chat with the visitors on your website.\nCompatible with all modern browsers, tawk.to is a free live chat software created out of the growing need for businesses to respond in real time, with real people.\n\nThere is no 'premium' version, just one feature packed version for everyone.",
+  "features": [
+    "Real Time Monitoring",
+    "Automated Triggers",
+    "Customizable Widgets",
+    "27 Languages",
+    "Mail Notifications"
+  ],
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

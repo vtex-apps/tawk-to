@@ -1,0 +1,16 @@
+{
+  "name": "Tawk.to",
+  "headline": "Tawk.to es una aplicación de mensajería gratuita que las empresas utilizan para crear mejores relaciones con sus clientes.",
+  "overview": "Tawk.to está diseñado para aumentar la efectividad en la gestión de la experiencia de participación del cliente en línea, permitiendo que múltiples sitios y agentes en una sola interfaz chateen con los visitantes de su sitio.\nCompatible con todos los navegadores modernos, tawk.to es un software gratuito de chat en vivo creado a partir de la creciente necesidad de que las empresas respondan en tiempo real, con personas reales.\n\nNo existe una versión 'premium', solo una versión rica en funciones para todos.",
+  "features": [
+    "Monitoreo en tiempo real",
+    "Disparadores automatizados",
+    "Widgets personalizables",
+    "27 idiomas",
+    "Notificaciónes de e-mail"
+  ],
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}
