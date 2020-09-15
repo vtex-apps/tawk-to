@@ -1,7 +1,7 @@
 {
   "name": "tawk-to",
   "vendor": "vtex",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "Tawk.to",
   "description": "Message your customers, they'll love you for it.",
   "billingOptions": {
@@ -11,7 +11,9 @@
     },
     "free": true,
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "builders": {
     "pixel": "0.x",
