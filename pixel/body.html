@@ -1,14 +1,15 @@
 <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
   (function(){
-    var propertyId = "{{settings.id}}";
-    if (!propertyId) {
-      console.error('Warning: No Property ID is defined. Please configure it in the apps admin.');
+    var propertyId = "{{settings.id}}", link = "{{settings.link}}", linkId;
+    if (!propertyId || !link) {
+      console.error('Warning: No Property ID or Chat Direct Link is defined. Please configure it in the apps admin.');
       return
     }
+    linkId = link.substring(link.lastIndexOf('%') + 3);
     var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
     s1.async=true;
-    s1.src='https://embed.tawk.to/'+propertyId+'/default';
+    s1.src='https://embed.tawk.to/'+propertyId+'/'+linkId;
     s1.charset='UTF-8';
     s1.setAttribute('crossorigin','*');
     s0.parentNode.insertBefore(s1,s0);

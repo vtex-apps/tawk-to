@@ -27,6 +27,10 @@
       "id": {
         "title": "Property ID",
         "type": "string"
+      },
+      "link": {
+        "title": "Direct Chat Link",
+        "type": "string"
       }
     }
   },
