@@ -4,9 +4,9 @@
     var propertyId = "{{settings.id}}", link = "{{settings.link}}", linkId;
     if (!propertyId || !link) {
       console.error('Warning: No Property ID or Chat Direct Link is defined. Please configure it in the apps admin.');
-      return
     }
-    linkId = link.substring(link.lastIndexOf('%') + 3);
+    if (!link) linkId = "default"
+    else linkId = link.substring(link.lastIndexOf('%') + 3)
     var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
     s1.async=true;
     s1.src='https://embed.tawk.to/'+propertyId+'/'+linkId;
