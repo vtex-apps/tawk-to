@@ -21,14 +21,17 @@ It is possible to install in your store either by using App Store or the VTEX IO
 1. Access the **Apps** section in your account's admin page and look for the Tawk.to box;
 2. Then, click on the **Install** button;
 3. You'll see a warning message about needing to enter the necessary configurations. Scroll down and type in your tawk.to's **Property ID**.
-4. Click on **Save**.
+6. Then, configure on Tawk.to a Chat widget and insert the Direct Chat link in the **Direct Chat Link** box.
+5. Click on **Save**.
+
 
 ### Using VTEX IO Toolbelt
 
 1. In your terminal, [install](https://vtex.io/docs/recipes/development/installing-an-app/) the `vtex.tawk-to@0.x` app. You can confirm that the app has now been installed by running `vtex ls` again.
 2. Access the **Apps** section in your account's admin page and look for the Tawk.to box. Once you find it, click on it.
 3. Fill with your tawk.to's **Property ID**.
-4. Click on **Save**.
+6. Then, configure on Tawk.to a Chat widget and insert the Direct Chat link in the **Direct Chat Link** box.
+5. Click on **Save**.
 
 <!-- DOCS-IGNORE:start -->
 ## Contributors ✨

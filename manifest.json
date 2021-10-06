@@ -1,7 +1,7 @@
 {
   "name": "tawk-to",
   "vendor": "vtex",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "title": "Tawk.to",
   "description": "Message your customers, they'll love you for it.",
   "billingOptions": {
@@ -26,6 +26,10 @@
     "properties": {
       "id": {
         "title": "Property ID",
+        "type": "string"
+      },
+      "link": {
+        "title": "Direct Chat Link",
         "type": "string"
       }
     }
