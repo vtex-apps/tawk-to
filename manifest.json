@@ -27,6 +27,11 @@
       "id": {
         "title": "Property ID",
         "type": "string"
+      },
+      "channelId": {
+        "title": "Channel ID",
+        "type": "string",
+        "default": "default"
       }
     }
   },
