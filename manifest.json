@@ -27,6 +27,10 @@
       "id": {
         "title": "Property ID",
         "type": "string"
+      },
+      "widgetid":{
+        "title": "Widget ID",
+        "type": "string"
       }
     }
   },
