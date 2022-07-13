@@ -7,17 +7,26 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- Added new id to settings
+
 ## [0.2.3] - 2020-10-14
 
 ### Fixed
+
 - New terms of use
 
 ## [0.2.2] - 2020-09-16
+
 ### Fixed
+
 - full_description.txt adjustments
 
 ## [0.2.1] - 2020-09-15
+
 ### Fixed
+
 - Add billingOptions type and availableCountries
 
 ## [0.2.0] - 2020-08-26
@@ -28,13 +37,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Crowdin.yml for localization
 
 ## [0.1.3] - 2020-07-20
+
 ### Fixed
+
 - Removed unused files
 
 ### Added
+
 - Metadata for publishing on App Store
 
 ## [0.1.2] - 2020-07-09
+
 ### Fixed
 
 - Updated the README.md file (docs).
