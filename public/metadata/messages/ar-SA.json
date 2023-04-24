@@ -1,0 +1,16 @@
+{
+  "name": "Tawk.to",
+  "headline": "Tawk.to é um app de mensagens gratuito que as empresas usam para criar melhores relacionamentos com seus clientes.",
+  "overview": "Este aplicativo permite a integração com o serviço gratuito oferecido pelo Google de coleta de avaliações e comentários dos clientes que compraram na sua loja.\nAs informações coletadas podem ser úteis para monitorar, por meio do Google Merchant Center, como estão sendo as experiências dos clientes, também para anúncios do Google AdWords e para apresentação de produtos no Google Shopping.",
+  "features": [
+    "Monitoramento em tempo real",
+    "Gatilhos automatizados",
+    "Widgets personalizáveis",
+    "27 idiomas",
+    "Notificações por e-mail"
+  ],
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}
